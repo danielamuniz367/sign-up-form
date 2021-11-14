@@ -1,6 +1,9 @@
 # To Run This Project
 In the project directory, run `npm install` and then `npm start` after node_modules has been added. 
 
+## About This Project
+This was written in React, along with HTML/CSS. 
+
 ## Available Scripts
 
 In the project directory, you can run:
